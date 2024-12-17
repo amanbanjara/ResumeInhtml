@@ -1,2 +1,2 @@
 # ResumeInhtml
-Resume In HTML and css
+basic Resume In HTML and css
