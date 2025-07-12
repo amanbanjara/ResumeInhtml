@@ -10,7 +10,7 @@ A clean, modern, and responsive resume created using only HTML and CSS. Perfect 
 ![Screenshot](assets/resume-preview.png)
 *(Include a screenshot of your resume here)*
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
