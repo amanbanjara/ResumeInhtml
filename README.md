@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive resume created using only HTML and CSS. Perfect for developers, designers, and anyone looking to showcase their skills online without relying on templates or PDFs.
 
-## 🚀 Preview 
+## 🚀 Preview  
  
 [🔗 Live Demo](https://yourusername.github.io/resume-html/)
 *(Replace with your GitHub Pages or live link)*
